@@ -1,5 +1,5 @@
 # rock-paper-scissors
-My text exercise to code a RPS game using HTML, CSS, and JS.
+My test exercise to code a RPS game using HTML, CSS, and JS.
 
 Mastering JS with Eloquent Javascript, WhatsDev Youtube channel and Zero To Mastery Course.
 
